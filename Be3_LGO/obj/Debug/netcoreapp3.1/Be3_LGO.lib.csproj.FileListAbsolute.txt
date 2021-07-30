@@ -1,0 +1,9 @@
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\obj\Debug\netcoreapp3.1\Be3_LGO.lib.csproj.AssemblyReference.cache
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\obj\Debug\netcoreapp3.1\Be3_LGO.lib.AssemblyInfoInputs.cache
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\obj\Debug\netcoreapp3.1\Be3_LGO.lib.AssemblyInfo.cs
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\obj\Debug\netcoreapp3.1\Be3_LGO.lib.csproj.CoreCompileInputs.cache
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\bin\Debug\netcoreapp3.1\Be3_LGO.lib.deps.json
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\bin\Debug\netcoreapp3.1\Be3_LGO.lib.dll
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\bin\Debug\netcoreapp3.1\Be3_LGO.lib.pdb
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\obj\Debug\netcoreapp3.1\Be3_LGO.lib.dll
+C:\Workspace\BE3\Be3_LGO\Be3_LGO\obj\Debug\netcoreapp3.1\Be3_LGO.lib.pdb
